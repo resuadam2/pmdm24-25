@@ -13,12 +13,16 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 # Android con Kotlin y Jetpack Compose
 [Página de descarga de Android Studio](https://developer.android.com/studio?hl=es-419)
 
+[Kotlin Playground](https://play.kotlinlang.org/)
+
 ## Introducción a Kotlin y Compose
 
   1. [Mi primera app para Android - Codelabs introductorios](https://developer.android.com/courses/android-basics-compose/unit-1?hl=es-419)
   2. [Apuntes Kotlin - repo avidaldo](https://github.com/avidaldo/kotlin-apuntes/tree/main)
   3. [Kotlin y Java en una misma app - fork de avidaldo](https://github.com/resuadam2/android-java-y-kotlin)
   4. [Vistazo rápido al ciclo de vida de una actividad](https://github.com/resuadam2/android-ciclodevida-java)
+
+
 
 ## Manejo del estado
 
@@ -27,7 +31,7 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 
 
 
-## Recursos externos
+## Recursos generales externos
 - [Página oficial de Android Developers](https://developer.android.com/?hl=es-419)
 - Más Codelabs de interés
   - [Ciclo de vida de una actividad](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=es_419#0)
