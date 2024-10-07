@@ -8,7 +8,7 @@ El módulo está dividido en dos grandes bloques, un primer bloque en dónde apr
 
 El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremos el motor de videojuegos Unity y el lenguaje C#. 
 
-[Canal dónde se irán subiendo los videos de conceptos vistos en clase](https://www.youtube.com/@resuadam2)
+**[Canal de YouTube de clases](https://www.youtube.com/@resuadam2)**
 
 # Android con Kotlin y Jetpack Compose
 [Página de descarga de Android Studio](https://developer.android.com/studio?hl=es-419)
@@ -18,15 +18,19 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 ## Introducción a Kotlin y Compose
 
   1. [Mi primera app para Android - Codelabs introductorios](https://developer.android.com/courses/android-basics-compose/unit-1?hl=es-419)
-  2. [Apuntes Kotlin - repo avidaldo](https://github.com/avidaldo/kotlin-apuntes/tree/main)
-  3. [Kotlin y Java en una misma app - fork de avidaldo](https://github.com/resuadam2/android-java-y-kotlin)
-  4. [Vistazo rápido al ciclo de vida de una actividad](https://github.com/resuadam2/android-ciclodevida-java)
 
+  2. [Apuntes Kotlin - repo avidaldo](https://github.com/avidaldo/kotlin-apuntes/tree/main)
+
+  - [Kotlin y Java en una misma app - fork de avidaldo](https://github.com/resuadam2/android-java-y-kotlin)
+  
+  - [Vistazo rápido al ciclo de vida de una actividad](https://github.com/resuadam2/android-ciclodevida-java)
+
+  3. [Ejemplos básicos de Compose](https://github.com/resuadam2/TutorialCompose)
 
 
 ## Manejo del estado
 
-
+  4. [Avanzando con Kotlin y el manejo de la UI - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-2?hl=es-419)
 
 
 
@@ -40,4 +44,5 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
   - [Guía de Kotlin](https://www.develou.com/guia-de-kotlin/)
 - [Antonio Leiva en Youtube](https://www.youtube.com)
 - [Mouredev en Youtube](https://www.youtube.com)
+- [Aristidev en Youtube](https://www.youtube.com/@AristiDevs)
 
