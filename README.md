@@ -8,7 +8,11 @@ El módulo está dividido en dos grandes bloques, un primer bloque en dónde apr
 
 El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremos el motor de videojuegos Unity y el lenguaje C#. 
 
+## Videos de clases
+
 **[Canal de YouTube de clases](https://www.youtube.com/@resuadam2)**
+
+- [Lista de reproducción de los videos de clases sobre Android y/o Kotlin](https://www.youtube.com/watch?v=TraKFKUD2lU&list=PLgqNF1r2jtYwfw2AsRY-xDi1ZfNaE8vg6)
 
 # Android con Kotlin y Jetpack Compose
 [Página de descarga de Android Studio](https://developer.android.com/studio?hl=es-419)
@@ -31,6 +35,7 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 ## Manejo del estado
 
   4. [Avanzando con Kotlin y el manejo de la UI - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-2?hl=es-419)
+  5. [Más Kotlin y listas de elementos (LazyColumn) - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-3?hl=es-419)
 
 
 
