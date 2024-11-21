@@ -19,6 +19,8 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 
 [Kotlin Playground](https://play.kotlinlang.org/)
 
+[Repositorio con respuestas a algunas dudas habituales](https://github.com/resuadam2/FAQs-Android-Compose)
+
 ## Introducción a Kotlin y Compose
 
   1. [Mi primera app para Android - Codelabs introductorios](https://developer.android.com/courses/android-basics-compose/unit-1?hl=es-419)
