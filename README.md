@@ -52,7 +52,8 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 - [develou.com](https://www.develou.com/)
   - [Repositorio de ejemplos de Compose](https://github.com/jamesreve/android-jetpack-compose)
   - [Guía de Kotlin](https://www.develou.com/guia-de-kotlin/)
-- [Antonio Leiva en Youtube](https://www.youtube.com)
-- [Mouredev en Youtube](https://www.youtube.com)
+- [Antonio Leiva en Youtube](https://www.youtube.com/@DevExpert)
+- [Mouredev en Youtube](https://www.youtube.com/@Mouredev)
 - [Aristidev en Youtube](https://www.youtube.com/@AristiDevs)
-
+- [DevKiper en Youtube](https://www.youtube.com/@DevKiper)
+  - [Video sobre Flows en Kotlin](https://www.youtube.com/watch?v=vGgB4wBjM-c)
