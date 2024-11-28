@@ -44,13 +44,18 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
   
   7. [Enunciados de ejercicios de ejemplo, se irán subiendo algunos solucionados](https://github.com/resuadam2/enunciados-ejemplos-android-24)
 
+  8. [Posible solución ejercicio Lista de la compra o to-do list](https://github.com/resuadam2/ListaCompraCompose)
 
+  9. [Posible solución ejercicio contadores](https://github.com/resuadam2/ContadoresCompose)
+
+  10. [Posible solución ejercicio navegación](https://github.com/resuadam2/PruebasNavigationCompose)
 
 
 ## Recursos generales externos
 - [Página oficial de Android Developers](https://developer.android.com/?hl=es-419)
 - Más Codelabs de interés
   - [Ciclo de vida de una actividad](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=es_419#0)
+- [Refactoring GURU - refactorización, patrones de diseño, principios SOLID](https://refactoring.guru/es)
 - [develou.com](https://www.develou.com/)
   - [Repositorio de ejemplos de Compose](https://github.com/jamesreve/android-jetpack-compose)
   - [Guía de Kotlin](https://www.develou.com/guia-de-kotlin/)
