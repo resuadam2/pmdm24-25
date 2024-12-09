@@ -75,6 +75,14 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
   - [Corrutinas y dispatchers](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
   
 - [Página oficial de Retrofit](https://square.github.io/retrofit/)
+
+- Bases de datos con Room
+  - [Cómo guardar datos en una base de datos local usando Room](https://developer.android.com/training/data-storage/room?hl=es-419)
+  - [Cómo definir datos con entidades de Room](https://developer.android.com/training/data-storage/room/defining-data?hl=es-419)
+  - [Cómo acceder a los datos con DAO de Room](https://developer.android.com/training/data-storage/room/accessing-data?hl=es-419)
+  - [La clase Database de Room](https://developer.android.com/reference/kotlin/androidx/room/Database)
+
+- [Cómo probar los Flows de Kotlin en Android](https://developer.android.com/kotlin/flow/test?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-6-pathway-2%3Fhl%3Des-419%23article-https%3A%2F%2Fdeveloper.android.com%2Fkotlin%2Fflow%2Ftest)
   
 - [Inyección de dependencias en Android](https://developer.android.com/training/dependency-injection?hl=es-419)
   
