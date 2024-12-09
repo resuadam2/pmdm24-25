@@ -27,10 +27,6 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 
   2. [Apuntes Kotlin - repo avidaldo](https://github.com/avidaldo/kotlin-apuntes/tree/main)
 
-  - [Kotlin y Java en una misma app - fork de avidaldo](https://github.com/resuadam2/android-java-y-kotlin)
-  
-  - [Vistazo rápido al ciclo de vida de una actividad](https://github.com/resuadam2/android-ciclodevida-java)
-
   3. [Ejemplos básicos de Compose](https://github.com/resuadam2/TutorialCompose)
 
 
@@ -44,17 +40,54 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
   
   7. [Enunciados de ejercicios de ejemplo, se irán subiendo algunos solucionados](https://github.com/resuadam2/enunciados-ejemplos-android-24)
 
-  8. [Posible solución ejercicio Lista de la compra o to-do list](https://github.com/resuadam2/ListaCompraCompose)
+  8. Ejercicio Lista de la compra - [Enunciado](https://github.com/resuadam2/enunciados-ejemplos-android-24?tab=readme-ov-file#app-de-lista-de-la-compra-o-to-do-list) - [Solución](https://github.com/resuadam2/ListaCompraCompose)
 
-  9. [Posible solución ejercicio contadores](https://github.com/resuadam2/ContadoresCompose)
+  9. Ejercicio contadores - [Enunciado](https://github.com/resuadam2/enunciados-ejemplos-android-24?tab=readme-ov-file#app-de-contadores) - [Solución](https://github.com/resuadam2/ContadoresCompose)
 
-  10. [Posible solución ejercicio navegación](https://github.com/resuadam2/PruebasNavigationCompose)
+  10. Ejercicio navegación - [Enunciado](https://github.com/resuadam2/enunciados-ejemplos-android-24?tab=readme-ov-file#app-de-pruebas-de-navegación) - [Solución](https://github.com/resuadam2/PruebasNavigationCompose)
+  
+  11. App de Carta Alta - [Enunciado](https://github.com/resuadam2/enunciados-ejemplos-android-24/blob/master/CartaAlta/CartaAlta.md) - [Solución](https://github.com/resuadam2/CartaAltaApp)
+
+  12. Examen diciembre - [Enunciado](PDTE) - [Solución](https://github.com/resuadam2/ListaCompraExamen)
+  
+## Capa de datos
+
+  13. [Cómo conectarse a internet - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-5?hl=es-419)
+  
+  14. [Persistencia de datos - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-6?hl=es-419) 
 
 
-## Recursos generales externos
+## Páginas de documentación interesantes
+
 - [Página oficial de Android Developers](https://developer.android.com/?hl=es-419)
+  
+- [Listas y cuadrículas con Compose](https://developer.android.com/develop/ui/compose/lists?hl=es-419)
+  - [Cuadrículas diferidas (LazyGrids)](https://developer.android.com/develop/ui/compose/lists?hl=es-419#lazy-grids)
+  
+- [Guía de arquitectura de apps](https://developer.android.com/topic/architecture?hl=es-419)
+  
+- [Descripción general de ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=es-419)
+  - [ViewModel Scope](https://developer.android.com/topic/libraries/architecture/coroutines?hl=es-419#viewmodelscope)
+  
+- [La capa de datos](https://developer.android.com/topic/architecture/data-layer?hl=es-419)
+  
+- [Corrutinas en Kotlin](https://kotlinlang.org/docs/coroutines-overview.html)
+  - [Corrutinas y dispatchers](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
+  
+- [Página oficial de Retrofit](https://square.github.io/retrofit/)
+  
+- [Inyección de dependencias en Android](https://developer.android.com/training/dependency-injection?hl=es-419)
+  
 - Más Codelabs de interés
   - [Ciclo de vida de una actividad](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=es_419#0)
+  
+
+## Recursos generales externos
+
+- [Kotlin y Java en una misma app - fork de avidaldo](https://github.com/resuadam2/android-java-y-kotlin)
+  
+- [Vistazo rápido al ciclo de vida de una actividad](https://github.com/resuadam2/android-ciclodevida-java)
+  
 - [Refactoring GURU - refactorización, patrones de diseño, principios SOLID](https://refactoring.guru/es)
 - [develou.com](https://www.develou.com/)
   - [Repositorio de ejemplos de Compose](https://github.com/jamesreve/android-jetpack-compose)
