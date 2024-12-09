@@ -81,6 +81,8 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
   - [Cómo definir datos con entidades de Room](https://developer.android.com/training/data-storage/room/defining-data?hl=es-419)
   - [Cómo acceder a los datos con DAO de Room](https://developer.android.com/training/data-storage/room/accessing-data?hl=es-419)
   - [La clase Database de Room](https://developer.android.com/reference/kotlin/androidx/room/Database)
+  - [Depurar la DB con el inspector de bases de datos de Android Studio](https://developer.android.com/studio/inspect/database)
+  - [Documentación general de Room](https://developer.android.com/reference/androidx/room/package-summary)
 
 - [Cómo probar los Flows de Kotlin en Android](https://developer.android.com/kotlin/flow/test?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-6-pathway-2%3Fhl%3Des-419%23article-https%3A%2F%2Fdeveloper.android.com%2Fkotlin%2Fflow%2Ftest)
   
@@ -88,6 +90,8 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
   
 - Más Codelabs de interés
   - [Ciclo de vida de una actividad](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=es_419#0)
+  - [Datos de preferencias con DataStore - Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-datastore?hl=es-419#0)
+
   
 
 ## Recursos generales externos
