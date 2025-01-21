@@ -8,13 +8,13 @@ El módulo está dividido en dos grandes bloques, un primer bloque en dónde apr
 
 El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremos el motor de videojuegos Unity y el lenguaje C#. 
 
-## Videos de clases
-
-**[Canal de YouTube de clases](https://www.youtube.com/@resuadam2)**
+## **[Canal de YouTube de clases](https://www.youtube.com/@resuadam2)**
 
 - [Lista de reproducción de los videos de clases sobre Android y/o Kotlin](https://www.youtube.com/watch?v=TraKFKUD2lU&list=PLgqNF1r2jtYwfw2AsRY-xDi1ZfNaE8vg6)
 
-# Android con Kotlin y Jetpack Compose
+## **[Web con los apuntes y todo el material organizado]([https://](https://resuadam2-pmdm.vercel.app/))**
+
+## Android con Kotlin y Jetpack Compose
 [Página de descarga de Android Studio](https://developer.android.com/studio?hl=es-419)
 
 [Kotlin Playground](https://play.kotlinlang.org/)
@@ -50,11 +50,15 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 
   12. Examen diciembre - [Enunciado](PDTE) - [Solución](https://github.com/resuadam2/ListaCompraExamen)
   
+  13. Ejercicio Trivial (Versión sin API) - [Enunciado](https://github.com/resuadam2/enunciados-ejemplos-android-24?tab=readme-ov-file#app-de-trivial) - [Solución](https://github.com/resuadam2/TriviaApp/tree/initial-version)
+  
 ## Capa de datos
 
-  13. [Cómo conectarse a internet - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-5?hl=es-419)
+  14. [Cómo conectarse a internet - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-5?hl=es-419)
   
-  14. [Persistencia de datos - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-6?hl=es-419) 
+  15. Ejercicio Trivial (Primera versión con API) - [Enunciado](https://github.com/resuadam2/enunciados-ejemplos-android-24?tab=readme-ov-file#app-de-trivial) - [Solución](https://github.com/resuadam2/TriviaApp/tree/first-api-version)
+  
+  16. [Persistencia de datos - Codelabs](https://developer.android.com/courses/android-basics-compose/unit-6?hl=es-419) 
 
 
 ## Páginas de documentación interesantes
