@@ -12,7 +12,7 @@ El segundo bloque trata sobre el desarrollo de videojuegos, para lo cual usaremo
 
 - [Lista de reproducción de los videos de clases sobre Android y/o Kotlin](https://www.youtube.com/watch?v=TraKFKUD2lU&list=PLgqNF1r2jtYwfw2AsRY-xDi1ZfNaE8vg6)
 
-## **[Web con los apuntes y todo el material organizado]([https://](https://resuadam2-pmdm.vercel.app/))**
+## **[Web con los apuntes y todo el material organizado](https://resuadam2-pmdm.vercel.app/)**
 
 ## Android con Kotlin y Jetpack Compose
 [Página de descarga de Android Studio](https://developer.android.com/studio?hl=es-419)
